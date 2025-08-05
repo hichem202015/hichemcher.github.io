@@ -1,4 +1,4 @@
-# tedhuang96.github.io
+# hichemcher.github.io
 Hichem's website.
 
 ```
